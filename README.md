@@ -1,7 +1,7 @@
 # Game_Of_Thrones_death_prediction
 Game of Thrones Character death prediction
 
-This project was done to clean and analyze a dataset consisting of factors that influence charcter deaths from the popular "A Song Of Ice And Fire" mostly known through the popular TV series "Game Of Thrones"
+This project was done to clean and analyze a dataset consisting of factors that influence charcter deaths from the popular book "A Song Of Ice And Fire" mostly known through the popular TV series "Game Of Thrones"
 
 STEP 1
 
